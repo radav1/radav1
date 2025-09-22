@@ -2,8 +2,9 @@
 
 I'm an Aerospace Engineering student at Arizona State University.
 
-- 🚀 I like working with high power solid motor rockets and liquids propulsion research.
-- 🔭 Outside of aerospace, I'm interested in web and game development.
+🚀 I like working with high power solid motor rockets and liquids propulsion research.
+
+🔭 Outside of aerospace, I'm interested in web and game development.
 
 <!--
 **radav1/radav1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
